@@ -13,6 +13,13 @@ I created this project as part of my practice journey to learn **Node.js**, **Ja
 
 ---
 
+### 📸 Screenshot
+
+Here is a screenshot of the main interface:
+
+![Main Interface](public/screenshots/screenshot-main-interface.png)
+
+
 ## 🛠️ Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js
